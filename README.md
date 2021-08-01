@@ -17,3 +17,11 @@ The purpose of this project is to develop an application that the user can use a
 This project is using EasyAR package, look at the documentation first:
 http://help.easyar.com/EasyAR%20Sense%20Unity%20Plugin/v4_3/
 
+You will need your wn license to be able to run the project.
+make sure you add the scenes from the folder "Scenes":
+Intro
+MainMenu
+PicturesAR
+
+from the folder Scenes
+
