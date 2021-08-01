@@ -10,3 +10,10 @@ The purpose of this project is to develop an application that the user can use a
 ## License & copyright
 © Noam Borger,	Desislava Marvakov, Maria Arsky, Lina Koz	- Holon Institute of Technology
 
+---
+
+##Getting Started
+
+This project is using EasyAR package, look at the documentation first:
+http://help.easyar.com/EasyAR%20Sense%20Unity%20Plugin/v4_3/
+
